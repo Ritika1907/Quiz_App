@@ -1,8 +1,41 @@
-# React + Vite
+# 🎯 Quiz App - React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The *Quiz App* is an interactive and dynamic quiz application developed using *React.js. This app provides an engaging and user-friendly experience by fetching quiz data from a remote API and displaying it to the user. The user is guided through a series of questions one by one, and can navigate between them using the *"Next"** button. 
 
-Currently, two official plugins are available:
+The app allows the user to answer multiple-choice questions with options and tracks the progression of the quiz. It's designed to help beginners and intermediate developers understand how to work with React, state management, and data fetching from an API. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+With features like asynchronous API fetching, navigation through questions, and dynamic rendering based on state, this project provides a great foundation to build more complex quiz applications.
+
+
+---
+
+## 📌 Features
+✅ Fetches quiz data dynamically from an API.  
+✅ Displays *one question at a time* to improve user experience.  
+✅ "Next" button allows smooth navigation through the questions.  
+✅ Handles *API loading, errors, and UI responsiveness*.  
+✅ Shows *current question count* (1 of 5 Questions).  
+✅ Uses *React Hooks (useState, useEffect)* for state management.  
+✅ Simple and clean UI.
+
+---
+
+
+## 🛠️ Setup Instructions
+
+### 1️⃣ Clone the Repository
+Open your terminal and run:
+```bash
+git clone https://github.com/Ritika1907/Quiz_App.git
+cd Quiz_App
+```
+
+### 2️⃣ Install Dependencies
+This will install all required Node.js packages.
+```bash
+npm install
+```
+### To run the application locally, execute:
+```bash
+npm run dev
+```
