@@ -14,7 +14,7 @@ With features like asynchronous API fetching, navigation through questions, and 
 ✅ Displays *one question at a time* to improve user experience.  
 ✅ "Next" button allows smooth navigation through the questions.  
 ✅ Handles *API loading, errors, and UI responsiveness*.  
-✅ Shows *current question count* (1 of 5 Questions).  
+✅ Shows *current question count* (1 of 10 Questions).  
 ✅ Uses *React Hooks (useState, useEffect)* for state management.  
 ✅ Simple and clean UI.
 
